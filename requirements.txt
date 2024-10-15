@@ -1,0 +1,2 @@
+aspose.slides
+aspose.pydrawing
